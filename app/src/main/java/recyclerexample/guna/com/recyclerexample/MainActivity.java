@@ -14,7 +14,6 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -68,31 +67,26 @@ public class MainActivity extends ActionBarActivity {
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_main, container, false);
-            return rootView;
+            return inflater.inflate(R.layout.fragment_main, container, false);
         }
 
         @Override
         public void onActivityCreated(@Nullable Bundle savedInstanceState) {
             super.onActivityCreated(savedInstanceState);
-            recyclerView = (RecyclerView) getView().findViewById(R.id.cardList);
+            recyclerView = (RecyclerView) getView().findViewById(R.id.myList);
             recyclerView.setHasFixedSize(true);
             LinearLayoutManager llm = new LinearLayoutManager(getActivity());
             llm.setOrientation(LinearLayoutManager.VERTICAL);
             recyclerView.setLayoutManager(llm);
 
-            Random r = new Random();
             demoData = new ArrayList<Model>();
             char c = 'A';
             for (byte i = 0; i < 20; i++) {
                 Model model = new Model();
                 model.name = c++;
-                model.age = (byte)(20 + i);
+                model.age = (byte) (20 + i);
                 demoData.add(model);
             }
-
-
-            System.out.println(demoData);
             adapter = new RecyclerViewAdapter(demoData);
             recyclerView.setAdapter(adapter);
         }
