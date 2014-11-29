@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\classes-4fd2e5aa65a3898effd4bfb52c8b89fa2c010e77.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\classes-873bd715aeb87c98ab091214d2025f13021d2211.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\classes-1e596a707cb334a64b3d9ab0e8f3bf811d810760.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\net.danlew\android.joda\2.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fbf3f2e9e9eb8c9aeb41977952ceb5f613c4baf1"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e084975b24a840014ffac10fcea958049157c428.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\classes-05821733e5d50eb73ea8e9a37125fd8c64415181.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\classes-92519e64fa1020101a218633e88600fc11829261.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34"/>
+    <item
+        dex="C:\Users\Gunaseelan A\Documents\Android with Studio\RecyclerExample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-0d1ca047f4551b2603199421cec94a35764f2af5.jar"
+        jar="C:\Users\Gunaseelan A\Documents\Android with kepler\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+
+</pre-dex-items>
